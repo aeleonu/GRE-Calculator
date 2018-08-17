@@ -22,6 +22,12 @@ There are options (1 - 9). Here are what the functions are.
     8. Root
     
     9. Scientific Notation
+    
+    10. Area
+    
+    11. Trignometry
+    
+    12. Circumference
  
 Then it will ask you to input 2 numbers.
 
