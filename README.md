@@ -3,7 +3,7 @@ A simple calculator to do some of the functions you need to do in the Quantitati
 
 To run the calculator - click 'run' in IDLE.
 
-There are options (1 - 9). Here are what the functions are.
+There are options (1 - 12). Here are what the functions are.
     
     1. Add 
      
