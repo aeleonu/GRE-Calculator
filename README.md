@@ -1,5 +1,5 @@
-# GRE-Calculator
-A simple calculator to do some of the functions you need to do in the Quantitative Analysis in Python. 
+# Standardized-Calculator
+A simple calculator to do some of the functions you need to do in Standardized Tests or Homework when trying to study. Useful for functions. Similar to Wolphram Alpha but smaller. 
 
 To run the calculator - click 'run' in IDLE.
 
